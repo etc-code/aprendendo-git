@@ -1,2 +1,5 @@
 comecei a trabalhar na funcionalidade x
 o coelho viu que o rio de chocolate era, na verdade, uma miragem.
+depois de descobrir a miragem, ele seguiu para a tarefa mágica, digo, floresta mágica.
+tarefa1.txt
+
